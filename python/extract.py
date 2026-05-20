@@ -2,7 +2,6 @@ def extract_characters(name, n):
     # create a variable to store the extracted characters
     result_name = ""
 
-
     # index from the arguemet strings
     index = 0
 
