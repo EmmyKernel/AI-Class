@@ -3,4 +3,4 @@ def reverse_name(name):
 
 if __name__ == "__main__":
     name = input('Enter string: ')
-    print(reverse_name('Emmanuel'))
+    print('Q1:', reverse_name('Emmanuel'))
